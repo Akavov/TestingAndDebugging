@@ -1,0 +1,16 @@
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\bin\Debug\BankTest.dll
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\bin\Debug\BankTest.pdb
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\bin\Debug\Bank.dll
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\bin\Debug\Bank.pdb
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.dll
+c:\Users\Oleg\documents\visual studio 2012\Projects\Bank\BankTest\obj\Debug\BankTest.pdb
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\BankTest.dll
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\BankTest.pdb
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\Bank.dll
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\Bank.pdb
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\obj\Debug\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\obj\Debug\BankTest.dll
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\20.02\Bank\BankTest\obj\Debug\BankTest.pdb

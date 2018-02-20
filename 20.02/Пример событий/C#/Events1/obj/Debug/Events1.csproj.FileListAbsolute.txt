@@ -1,0 +1,4 @@
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events1\bin\Debug\Events1.exe
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events1\bin\Debug\Events1.pdb
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events1\obj\Debug\Events1.exe
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events1\obj\Debug\Events1.pdb

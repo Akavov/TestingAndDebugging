@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="A9EA49AE-1EE0-4B87-A679-1F1F04B77C58" ModuleId="Bank" />
+  <Module PersistentId="2B12291B-9622-40C0-A11C-6AEF4108AE15" ModuleId="TestBank" />
+</Modules>

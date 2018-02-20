@@ -1,0 +1,5 @@
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events2\bin\Debug\Events2.exe
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events2\bin\Debug\Events2.pdb
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events2\obj\Debug\Events2.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events2\obj\Debug\Events2.exe
+C:\Users\Oleg\Desktop\Лекция по делегатам\События и примеры обработки\Пример событий\C#\Events2\obj\Debug\Events2.pdb
