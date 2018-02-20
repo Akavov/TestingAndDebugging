@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2b4b91a3-ea79-4eb7-b0f6-777d1c79758c" name="Oleg@OLEGPC 2016-03-29 06:07:18" runUser="OlegPC\Oleg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="04b1999a-1c84-4bcd-a2b7-426cafe90866">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Oleg_OLEGPC 2016-03-29 06_07_18">
+      <DeploymentItem filename="D:\tstbank\OrderApplication2\packages\Moq.4.2.1510.2205\lib\net40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-03-29T06:07:18.8293308+03:00" queuing="2016-03-29T06:07:18.8783336+03:00" start="2016-03-29T06:07:18.8833339+03:00" finish="2016-03-29T06:07:19.1433488+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestPayAllOrder" storage="d:\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47cec070-ae02-f847-8562-a92dc18ac7e3">
+      <Execution id="8c49c0eb-753a-431f-8250-10630aee5347" />
+      <TestMethod codeBase="D:/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPayAllOrder" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47cec070-ae02-f847-8562-a92dc18ac7e3" executionId="8c49c0eb-753a-431f-8250-10630aee5347" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8c49c0eb-753a-431f-8250-10630aee5347" testId="47cec070-ae02-f847-8562-a92dc18ac7e3" testName="TestPayAllOrder" computerName="OLEGPC" duration="00:00:00.0687126" startTime="2016-03-29T06:07:18.8843340+03:00" endTime="2016-03-29T06:07:19.1313481+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8c49c0eb-753a-431f-8250-10630aee5347">
+      <Output>
+        <ErrorInfo>
+          <Message>Метод проверки TestProject1.UnitTest1.TestPayAllOrder выдал исключение: Moq.MockException: 
+Expected invocation on the mock exactly 2 times, but was 0 times: m =&gt; m.Pay(It.IsAny&lt;Product&gt;())
+No setups configured.
+No invocations performed..</Message>
+          <StackTrace>    в Moq.Mock.ThrowVerifyException(MethodCall expected, IEnumerable`1 setups, IEnumerable`1 actualCalls, Expression expression, Times times, Int32 callCount)
+   в Moq.Mock.VerifyCalls(Interceptor targetInterceptor, MethodCall expected, Expression expression, Times times)
+   в Moq.Mock.Verify[T](Mock`1 mock, Expression`1 expression, Times times, String failMessage)
+   в Moq.Mock`1.Verify(Expression`1 expression, Times times)
+   в TestProject1.UnitTest1.TestPayAllOrder() в D:\tstbank\OrderApplication2\TestProject1\UnitTest1.cs:строка 46
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

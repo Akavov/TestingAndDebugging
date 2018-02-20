@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="741ad5d8-5b4d-4ac5-a198-f3e300d68882" name="Oleg@OLEGPC 2018-02-13 09:33:52" runUser="OlegPC\Oleg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="04b1999a-1c84-4bcd-a2b7-426cafe90866">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Oleg_OLEGPC 2018-02-13 09_33_52">
+      <DeploymentItem filename="D:\tstbank\tstbank\OrderApplication2\packages\Moq.4.2.1510.2205\lib\net40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-02-13T09:33:52.7066409+03:00" queuing="2018-02-13T09:33:59.1729050+03:00" start="2018-02-13T09:33:59.8185344+03:00" finish="2018-02-13T09:34:02.3929777+03:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestPayAllOrder" storage="d:\tstbank\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47cec070-ae02-f847-8562-a92dc18ac7e3">
+      <Execution id="2e788e24-45ba-40e0-879c-dcd918c2a3a2" />
+      <TestMethod codeBase="D:/tstbank/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPayAllOrder" />
+    </UnitTest>
+    <UnitTest name="TestOderBuilder" storage="d:\tstbank\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63">
+      <Execution id="ca9c7690-6492-4976-a983-3ed03dbbeab0" />
+      <TestMethod codeBase="D:/tstbank/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOderBuilder" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47cec070-ae02-f847-8562-a92dc18ac7e3" executionId="2e788e24-45ba-40e0-879c-dcd918c2a3a2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" executionId="ca9c7690-6492-4976-a983-3ed03dbbeab0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="2e788e24-45ba-40e0-879c-dcd918c2a3a2" testId="47cec070-ae02-f847-8562-a92dc18ac7e3" testName="TestPayAllOrder" computerName="OLEGPC" duration="00:00:01.1838928" startTime="2018-02-13T09:34:00.1493130+03:00" endTime="2018-02-13T09:34:02.3159196+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2e788e24-45ba-40e0-879c-dcd918c2a3a2">
+    </UnitTestResult>
+    <UnitTestResult executionId="ca9c7690-6492-4976-a983-3ed03dbbeab0" testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" testName="TestOderBuilder" computerName="OLEGPC" duration="00:00:00.0028163" startTime="2018-02-13T09:34:02.3179200+03:00" endTime="2018-02-13T09:34:02.3239208+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca9c7690-6492-4976-a983-3ed03dbbeab0">
+    </UnitTestResult>
+  </Results>
+</TestRun>

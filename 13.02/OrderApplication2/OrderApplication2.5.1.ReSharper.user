@@ -1,0 +1,122 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:IPayOrder.cs" caret="204" fromTop="11" />
+      <File id="3FFD75B4-55D1-4D4A-8A5C-B14622ED8706/f:Program.cs" caret="0" fromTop="0" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="1961" fromTop="7" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:OrderPay.cs" caret="0" fromTop="0" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:IBuilderOrder.cs" caret="0" fromTop="0" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:Product.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:Product.cs" caret="229" fromTop="9" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="2006" fromTop="10" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="153" fromTop="4" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:IBuilderOrder.cs" caret="170" fromTop="8" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="832" fromTop="6" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="977" fromTop="13" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="485" fromTop="11" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="395" fromTop="3" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="1589" fromTop="15" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:OrderPay.cs" caret="786" fromTop="19" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="298" fromTop="0" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="1326" fromTop="3" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:IPayOrder.cs" caret="204" fromTop="9" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:OrderPay.cs" caret="745" fromTop="17" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:OrderPay.cs" caret="579" fromTop="3" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:Product.cs" caret="256" fromTop="11" />
+      <File id="E3A2C9E7-F663-4FED-9AF1-0C33930D7B4A/f:UnitTest1.cs" caret="1881" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="private" priority="2" />
+      <Item value="int" priority="3" />
+      <Item value="var" priority="1" />
+      <Item value="OrderedParallelQuery" priority="0" />
+      <Item value="order" priority="1" />
+      <Item value="new" priority="6" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="public" priority="5" />
+      <Item value="string" priority="0" />
+      <Item value="double" priority="0" />
+      <Item value="return" priority="1" />
+      <Item value="List" priority="0" />
+      <Item value="IBuilderOrder`0" priority="3" />
+      <Item value="builderOder" priority="2" />
+      <Item value="payOrder" priority="4" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="countOrder" priority="0" />
+      <Item value="using" priority="0" />
+      <Item value="Moq" priority="0" />
+      <Item value="Mock`0" priority="0" />
+      <Item value="IPayOrder`0" priority="5" />
+      <Item value="interface" priority="0" />
+      <Item value="builderOrder" priority="0" />
+      <Item value="m" priority="1" />
+      <Item value="Product`0" priority="6" />
+      <Item value="Product" priority="1" />
+      <Item value="void" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="1" />
+      <Item value="readonly" priority="2" />
+      <Item value="Mock" priority="3" />
+      <Item value="OrderPay`0" priority="0" />
+      <Item value="It`0" priority="0" />
+      <Item value="Times`0" priority="0" />
+      <Item value="product" priority="1" />
+      <Item value="IList" priority="1" />
+      <Item value="foreach" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="Pay`0" priority="0" />
+      <Item value="p" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="Object" priority="1" />
+      <Item value="Setup`1" priority="0" />
+      <Item value="Verify`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestProject1.IBuilderOrder">
+      <Item value="GetOrder`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Language.Flow.ISetup`2">
+      <Item value="Returns`16" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Count`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.Times">
+      <Item value="Exactly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestProject1.OrderPay">
+      <Item value="payOrder" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TestProject1.IPayOrder">
+      <Item value="Pay`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

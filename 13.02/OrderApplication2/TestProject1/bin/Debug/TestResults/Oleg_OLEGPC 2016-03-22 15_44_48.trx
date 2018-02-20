@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="b75478c7-1911-4712-b010-bcb1fbe6f985" name="Oleg@OLEGPC 2016-03-22 15:44:48" runUser="OlegPC\Oleg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="04b1999a-1c84-4bcd-a2b7-426cafe90866">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Oleg_OLEGPC 2016-03-22 15_44_48" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-03-22T15:44:48.7252327+03:00" queuing="2016-03-22T15:44:49.5352338+03:00" start="2016-03-22T15:44:49.8552343+03:00" finish="2016-03-22T15:44:51.7052369+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestOderBuilder" storage="d:\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63">
+      <Execution timeOut="1800000" id="c88d8f32-3cf8-41de-b5f6-8a10180c9889" />
+      <TestMethod codeBase="D:/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOderBuilder" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" executionId="c88d8f32-3cf8-41de-b5f6-8a10180c9889" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c88d8f32-3cf8-41de-b5f6-8a10180c9889" testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" testName="TestOderBuilder" computerName="OLEGPC" duration="00:00:01.0485677" startTime="2016-03-22T15:44:50.5452353+03:00" endTime="2016-03-22T15:44:51.6552368+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c88d8f32-3cf8-41de-b5f6-8a10180c9889">
+      <Output>
+        <ErrorInfo>
+          <Message>Ошибка в Assert.Fail. Нельзя использовать Assert.Equals для Assertions. Вместо этого используйте Assert.AreEqual и перегрузки.</Message>
+          <StackTrace>   в TestProject1.UnitTest1.TestOderBuilder() в D:\tstbank\OrderApplication2\TestProject1\UnitTest1.cs:строка 27
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

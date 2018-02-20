@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="3c01b58d-a99c-4ccf-85f6-3fe7b082bbc5" name="Oleg@OLEGPC 2016-03-22 20:07:30" runUser="OlegPC\Oleg" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Локальные" id="04b1999a-1c84-4bcd-a2b7-426cafe90866">
+    <Description>Это - параметры по умолчанию для локального тестового запуска.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Oleg_OLEGPC 2016-03-22 20_07_30">
+      <DeploymentItem filename="D:\tstbank\OrderApplication2\packages\Moq.4.2.1510.2205\lib\net40\Moq.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-03-22T20:07:30.1912767+03:00" queuing="2016-03-22T20:07:32.1312795+03:00" start="2016-03-22T20:07:32.2112796+03:00" finish="2016-03-22T20:07:33.4012812+03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="2" executed="2" passed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestPayAllOrder" storage="d:\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47cec070-ae02-f847-8562-a92dc18ac7e3">
+      <Execution id="52c20372-6dc4-4f7a-9dee-05d1af20d5b3" />
+      <TestMethod codeBase="D:/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestPayAllOrder" />
+    </UnitTest>
+    <UnitTest name="TestOderBuilder" storage="d:\tstbank\orderapplication2\testproject1\bin\debug\testproject1.dll" id="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63">
+      <Execution id="249f7001-baf4-4beb-bcf4-459aa3179f9b" />
+      <TestMethod codeBase="D:/tstbank/OrderApplication2/TestProject1/bin/Debug/TestProject1.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestProject1.UnitTest1, TestProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestOderBuilder" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Отсутствующие в списке результаты" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="Все загруженные результаты" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="47cec070-ae02-f847-8562-a92dc18ac7e3" executionId="52c20372-6dc4-4f7a-9dee-05d1af20d5b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" executionId="249f7001-baf4-4beb-bcf4-459aa3179f9b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="52c20372-6dc4-4f7a-9dee-05d1af20d5b3" testId="47cec070-ae02-f847-8562-a92dc18ac7e3" testName="TestPayAllOrder" computerName="OLEGPC" duration="00:00:00.2229603" startTime="2016-03-22T20:07:32.2912797+03:00" endTime="2016-03-22T20:07:32.9112806+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52c20372-6dc4-4f7a-9dee-05d1af20d5b3">
+      <Output>
+        <ErrorInfo>
+          <Message>Метод проверки TestProject1.UnitTest1.TestPayAllOrder выдал исключение: System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта..</Message>
+          <StackTrace>    в TestProject1.UnitTest1.TestPayAllOrder() в D:\tstbank\OrderApplication2\TestProject1\UnitTest1.cs:строка 43
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="249f7001-baf4-4beb-bcf4-459aa3179f9b" testId="47d6fcd2-8432-d20a-1ebf-ba3acd9d7d63" testName="TestOderBuilder" computerName="OLEGPC" duration="00:00:00.4163176" startTime="2016-03-22T20:07:32.9212806+03:00" endTime="2016-03-22T20:07:33.3312811+03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="249f7001-baf4-4beb-bcf4-459aa3179f9b">
+    </UnitTestResult>
+  </Results>
+</TestRun>

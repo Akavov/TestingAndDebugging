@@ -1,0 +1,12 @@
+D:\tstbank\OrderApplication2\OrderApplication2\bin\Debug\OrderApplication2.exe
+D:\tstbank\OrderApplication2\OrderApplication2\bin\Debug\OrderApplication2.pdb
+D:\tstbank\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.csprojResolveAssemblyReference.cache
+D:\tstbank\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.exe
+D:\tstbank\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.pdb
+D:\tstbank\tstbank\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.exe
+D:\tstbank\tstbank\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.pdb
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\OrderApplication2\OrderApplication2\bin\Debug\OrderApplication2.exe
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\OrderApplication2\OrderApplication2\bin\Debug\OrderApplication2.pdb
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.exe
+C:\Users\Ars\Downloads\Учеба\семестр6\Тестирование и отладка ПО\OrderApplication2\OrderApplication2\obj\x86\Debug\OrderApplication2.pdb
